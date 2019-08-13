@@ -1,0 +1,1 @@
+![](SocialBtnWidget.png)
